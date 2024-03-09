@@ -1,5 +1,7 @@
 Olá, meu nome é Vinicius, seja bem-vindo ao meu perfil!
 
+
+:books: O que estou aprendendo
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
 <!--
 **ViniciusDayrell/ViniciusDayrell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
